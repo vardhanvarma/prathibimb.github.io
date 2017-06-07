@@ -1,5 +1,3 @@
-# About prathibimb
+# Contact Us 
 
 This is a sample.
-
-## This is a sub heading.
